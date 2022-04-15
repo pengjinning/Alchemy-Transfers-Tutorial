@@ -33,4 +33,7 @@ heroku config:set KEY=KxXUpX2yISTPZnybNJfU6zDllGfOSg3N
 heroku config
 # === frozen-brushlands-66925 Config Vars
 # KEY: KxXUpX2yISTPZnybNJfU6zDllGfOSg3N
+git add .                             // to add changes
+git commit -m "added Alchemy keys"    // to add a comment 
+git push heroku main                 // to push and deploy your heroku app
 ```
